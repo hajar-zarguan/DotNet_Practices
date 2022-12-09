@@ -6,7 +6,7 @@ Table de matiere
  - [Code         ](https://github.com/hajar-zarguan/DotNet_Practices/blob/main/FirstApp) 
 
 ### Partie 2
- - [Compte rendu ]()
- - [Code source  ]()
+ - [Compte rendu ](https://github.com/hajar-zarguan/DotNet_Practices/blob/main/MyWebApp/readme.md)
+ - [Code source  ](https://github.com/hajar-zarguan/DotNet_Practices/blob/main/MyWebApp)
  
  
